@@ -38,6 +38,10 @@ datetime_tag(time)
 # => <span title="2014-03-21 11:24:24" class="datetime datetime_from_now">3 days</span>
 ```
 
+## Sponsors
+
+* [BaiLu ShuYuan](https://bailushuyuan.org)
+
 ## License
 
 Copyright © 2014 Jianqiu Xiao <swordray@gmail.com> under The [MIT License](http://opensource.org/licenses/MIT).

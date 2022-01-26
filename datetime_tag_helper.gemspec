@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.platform          = Gem::Platform::RUBY
   s.author            = ["Jianqiu Xiao"]
   s.email             = ["swordray@gmail.com"]
-  s.homepage          = "https://github.com/swordray/datetime_tag_helper"
+  s.homepage          = "https://bailushuyuan.org"
   s.summary           = "ActionView Datetime Tag Helper"
   s.description       = "ActionView Datetime Tag Helper."
   s.license           = "MIT"
